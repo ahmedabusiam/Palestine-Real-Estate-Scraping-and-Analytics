@@ -51,7 +51,7 @@ df.fillna(df.mean(numeric_only=True), inplace=True)
 ### الخوارزميات المستخدمة:   
 #### Linear Regression    
 #### Random Forest Regressor   
-####Support Vector Regressor (SVR)   
+#### Support Vector Regressor (SVR)   
 #### XGBoost   
 ### مقاييس تقييم الأداء : تم التقييم وحساب نسبة الخطأ باستخدام مقاييس MSE و MAE و R2 Score ورسم النتائج لمقارنة الفروقات.   
 ## 6️⃣ القسم السادس: تقنيات تقليل الأبعاد (PCA) 
